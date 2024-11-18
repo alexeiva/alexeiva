@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @alexeiva
 - I’m looking to collaborate on type design projects
+- Personal website https://alexeiva.netlify.app](https://alexeiva.netlify.app)
 - Native Cyrillic expert, contact me for consultations
-- Cyrillic Script Chair at Granshan Type Design Competition
+- Cyrillic Script Expert, Chair at Granshan Type Design Competition 2014–2024
 - How to reach me telegram [https://t.me/@alexeiva](https://t.me/alexeiva), a at cyreal.org
 - Open-source foundry @cyrealtype http://cyreal.org/
 
