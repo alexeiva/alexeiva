@@ -16,6 +16,8 @@ Cyrillic Extensions:
 
 > Swiss Typefaces: [Euclid](https://alexeiva.netlify.app/euclid-tf), [SangBleu](https://www.behance.net/gallery/130306225/SangBleu-Sans-Cyrillic), [Suisse Int'l](https://www.behance.net/gallery/130283601/Suisse-Intl-Condensed-Cyrillic-Greek), [Simplon](https://www.behance.net/gallery/130306457/Simplon-PZSP-Cyrillic)
 
+> Newlyn: [New Rubrik](https://newlyn.com/fonts/new-rubrik), [New Hero](https://newlyn.com/fonts/new-hero)
+
 
 
 - Personal website [https://alexeiva.netlify.app](https://alexeiva.netlify.app)
