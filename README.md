@@ -20,7 +20,7 @@ Cyrillic Extensions:
 
 
 
-- Personal website [https://alexeiva.netlify.app](https://alexeiva.netlify.app)
+- Personal website [https://alexeiva.netlify.app](https://alexeiva.cyreal.org)
 - Telegram [https://t.me/@alexeiva](https://t.me/alexeiva)
 - Email: a (at) cyreal.org
 - Open-source foundry [@cyrealtype](https://github.com/cyrealtype) website: [cyreal.org](https://cyreal.org/)
