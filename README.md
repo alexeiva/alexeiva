@@ -1,6 +1,9 @@
-I offer font customisation services, and Cyrillic support as a native expert. I served as a Script Expert, and Script Chair at Granshan Foundation 2014–2024. Currently I am a Typography Tutor at Almaty City Design School, Kazakhstan. 
+I offer font customisation services, and Cyrillic consultancy as a native expert. I served as a Script Chair/Expert at Granshan Foundation 2014–2024.
 
 Custom Fonts: [YouTube Sans](https://design.google/library/youtube-sans-font), [GEO Magazine](https://alexeiva.alexeiva.org/geo), [Kolesa.kz](https://alexeiva.cyreal.org/kolesa-kz)
+
+> [!TIP]
+> Feel free to reach me for a Cyrillic font review, or any typographic services
 
 Cyrillic typographic support. Some of the fonts I consulted on:
 
