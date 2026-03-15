@@ -18,6 +18,8 @@ Cyrillic Extensions:
 
 > Newlyn: [New Rubrik](https://newlyn.com/fonts/new-rubrik), [New Hero](https://newlyn.com/fonts/new-hero)
 
+> [Google Sans](https://design.google/library/google-sans-flex-font) (revised Cyrillic)
+ 
 
 > [!NOTE]
 > - Personal website [alexeiva.cyreal.org](https://alexeiva.cyreal.org)
